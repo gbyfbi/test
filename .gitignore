@@ -1,0 +1,7 @@
+/.svn/
+/build/.svn/
+/build/Debug/
+/dist/.svn/
+/dist/Debug/
+/nbproject/.svn/
+/nbproject/private/
