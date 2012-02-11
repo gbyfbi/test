@@ -5,3 +5,7 @@
 /dist/Debug/
 /nbproject/.svn/
 /nbproject/private/
+/test_cblas/.svn/
+/test_cblas/build/.svn/
+/test_cblas/dist/.svn/
+/test_cblas/nbproject/.svn/
