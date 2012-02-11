@@ -24,6 +24,7 @@ int main()
     }
     A[0] = 10.0f;
     A[5] = 34.f;
+	A[6] = 333.f;
     x = (real*)malloc(sizeof(real) * n);
     for(int i = 0; i < n; i++) {
         x[i] = 1.f;
